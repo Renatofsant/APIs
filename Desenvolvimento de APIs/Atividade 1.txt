@@ -1,0 +1,15 @@
+
+CITAR 2 PRINCIPAIS VANTAGENS DE SE UTILIZAR UMA API.
+
+
+ I - Integração Simplificada e Padronizada: As APIs permitem que diferentes sistemas e aplicativos se comuniquem e interajam de forma padronizada, 
+
+independentemente de suas tecnologias subjacentes, facilitando a integração de funcionalidades ou serviços de terceiros em seu próprio aplicativo. 
+
+
+
+II - Reutilização de Recursos e Dados: Ao utilizar APIs, você pode aproveitar os recursos e dados disponibilizados por outras empresas ou desenvolvedores, 
+
+o que pode ser extremamente benéfico para acelerar o desenvolvimento de seu próprio aplicativo. Isso permite que você se concentre na parte única e 
+
+diferenciada do seu aplicativo, enquanto aproveita os recursos já existentes. 
